@@ -2,7 +2,8 @@
 
 data数据位置  `Onedrive\2_Projects\4 CoPsy\2023\data`
 
-**我的numpy版本：1.26.4**，2.0版本的可能不太行
+**我的numpy版本：1.26.4**
+2.0版本的可能不太行
 
 ---
 
